@@ -41,5 +41,5 @@ make anything of it.
 <img width=600 align="center" alt="" src="https://github.com/user-attachments/assets/e19c38ba-2270-4472-bd00-bc325d928c7d"></img>
 
 <img width=500 align="center" alt="" src="https://github.com/user-attachments/assets/48fac317-a7ef-49b5-b305-0def6abf7637"></img>
-<img width=750 align="center" alt="" src="https://github.com/user-attachments/assets/4a010d4a-ee68-4c40-a53a-fc6c8c1f5ef5"></img>
+<img width=800 align="center" alt="" src="https://github.com/user-attachments/assets/4a010d4a-ee68-4c40-a53a-fc6c8c1f5ef5"></img>
 
